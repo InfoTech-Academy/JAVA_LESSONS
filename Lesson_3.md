@@ -1,6 +1,6 @@
 # Lesson 3
 
-Last update: 13 March 2020
+Last update: 11 08 2021
 
 ## Pre Lesson Reading
 - https://www.w3schools.com/java/java_variables.asp
