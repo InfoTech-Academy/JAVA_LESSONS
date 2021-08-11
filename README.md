@@ -70,7 +70,7 @@ Let's say you are just starting out with the Java module. This is what you do...
 8. **DEADLINE 2**: You submit your homework to the right channels (GitHub) before **Tuesday 23.59**. If you can't make it on time, please communicate it with your mentor
 9. Start the new week by going back to point 1!
 
-**Lesson Notes:**
+# *syllabus:*
 
 * [week 1](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
 * [week 2](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_2.md)
