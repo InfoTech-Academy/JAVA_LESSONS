@@ -1,5 +1,7 @@
 # Welcome to the Java Tutorials!
 
+![InterviewPreparation](https://www.youtube.com/watch?v=mAtkPQO1FcA)
+
 **Lesson Notes:**
 
 * [Lesson 1](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
