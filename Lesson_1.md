@@ -1,6 +1,6 @@
 # Lesson 1
 
-Last Updated: 13 March 2020
+Last Updated: 11 08 2021
 
 ## Pre Lesson Reading
 - https://www.w3schools.com/java/default.asp
