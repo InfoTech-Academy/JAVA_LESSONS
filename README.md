@@ -1,11 +1,4 @@
-# JAVA_LESSONS
-**Schedule:**
-
-* [Week 2-6 March](Tutor_Schedule_March2020)
-* [Week 9-13 March](Tutor_Schedule_9-13March2020)
-* [Week 16-20 March](Tutor_Schedule_16-20March2020)
-
-
+# Welcome to the Java Tutorials!
 
 **Lesson Notes:**
 
