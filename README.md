@@ -1,6 +1,8 @@
 # Welcome to the Java Tutorials!
 
-![InterviewPreparation](https://www.youtube.com/watch?v=mAtkPQO1FcA)
+What Is Java Programming? | Java Programming For Beginners of videos  we have made for you! (Click on the image to open the link)
+
+<a href="https://www.youtube.com/watch?v=mAtkPQO1FcA" target="_blank"><img src="./assets/week1-arco.png" width="600" height="400" alt="HYF Video" /></a>
 
 **Lesson Notes:**
 
