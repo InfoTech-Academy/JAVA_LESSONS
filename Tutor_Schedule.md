@@ -1,4 +1,4 @@
-## Week (16 March - 20  March)
+## Week (?????/)
 
 To automatically get updates, you can subscribe to [Java Training Calendar](https://calendar.google.com/calendar?cid=aW1wYWN0cmFkaXVzLmNvbV84dXZ2cmZoYTJnMmJoNG02OWppMmxudWFmY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
