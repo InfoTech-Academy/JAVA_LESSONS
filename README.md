@@ -6,6 +6,15 @@ What Is Java Programming? | Java Programming For Beginners |  of videos  we have
 
 <a href="https://www.youtube.com/watch?v=mAtkPQO1FcA" target="_blank"><img src="https://static.javatpoint.com/images/core/java-features.png" width="400" height="400" alt="HYF Video" /></a>
 
+# *syllabus:*
+
+* [week 1](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
+* [week 2](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_2.md)
+* [week 3](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_3.md)
+* [week 4](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_4.md)
+* [week 5](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_5.md)
+* [week 6](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_6.md)
+* [week 7](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_7.md)
 
 
 In this module you'll make a start into wonderful world of programming. We will be using the programming language `Java` to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
