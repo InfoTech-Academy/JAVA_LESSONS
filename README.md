@@ -60,7 +60,7 @@ Let's say you are just starting out with the Java module. This is what you do...
 
 1. The week always starts on **Wednesday**. First thing you'll do is open the `README.md` for that week. For the first week of `Java`, that would be [Week1 Reading](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
 2. You spend **Wednesday** and **Thursday** going over the resources and try to get a basic understanding of the concepts. In the meanwhile, you'll also implement any feedback you got on last week's homework (from java module)
-3. On **Friday** you start with the homework, found in the `MAKEME.md`. For the first week of `JavaScript`, that would be [Week1 Homework](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
+3. On **Friday** you start with the homework, found in the `MAKEME.md`. For the first week of `Java`, that would be [Week1 Homework](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
 4. You spend **Friday** and **Saturday** playing around with the exercises and write down any questions you might have
 5. **DEADLINE 1**: You'll submit any questions you might have before **Saturday 23.59**, in the class channel
 6. On **Sunday** you'll attend class. It'll be of the Q&A format, meaning that there will be no new material. Instead your questions shall be discussed and you can learn from others
