@@ -14,7 +14,7 @@ You'll be learning two main things:
 
 This should be your mindset when you're learning concepts: **I'm learning how to become a software developer that can adjust to any language used, because I know what the underlying principles and concepts are**.
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo.svg.png" width="200" height="200" alt="HY" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/80px-Java_programming_language_logo.svg.png" width="150" height="200" alt="HY" />
 
 2. **How to think like a programmer**. In one sentence this means: knowing how to solve problems computationally. Let's split that up in two parts: `how to solve problems` refers to the ability to identify issues and find effective solutions. `computationally` refers to the ability to think in logical steps that the computer can understand and execute.
 
@@ -24,10 +24,10 @@ This should be your mindset when you're learning how to think : **I'm learning h
 
 **Lesson Notes:**
 
-* [Lesson 1](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
-* [Lesson 2](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_2.md)
-* [Lesson 3](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_3.md)
-* [Lesson 4](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_4.md)
-* [Lesson 5](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_5.md)
-* [Lesson 6](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_6.md)
-* [Lesson 7](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_7.md)
+* [week 1](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_1.md)
+* [week 2](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_2.md)
+* [week 3](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_3.md)
+* [week 4](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_4.md)
+* [week 5](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_5.md)
+* [week 6](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_6.md)
+* [week 7](https://github.com/InfoTech-Academy/JAVA_LESSONS/blob/main/Lesson_7.md)
