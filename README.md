@@ -4,15 +4,17 @@ What Is Java Programming? | Java Programming For Beginners |  of videos  we have
 
 <a href="https://www.youtube.com/watch?v=mAtkPQO1FcA" target="_blank"><img src="https://static.javatpoint.com/images/core/java-features.png" width="400" height="400" alt="HYF Video" /></a>
 
-![JavaScript](./assets/javascript.png)
 
-In this module you'll make a start into wonderful world of programming. We will be using the programming language `JavaScript` to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
+
+In this module you'll make a start into wonderful world of programming. We will be using the programming language `Java` to do so. You'll learn about the basic building blocks of programming: `loops`, `functions`, `control flow` and more. Consider these as the ABC's of programming, without them it's impossible to write working software!
 
 You'll be learning two main things:
 
 1. **Fundamental concepts in programming**. While we're using JavaScript to illustrate these concepts, it's important to keep in mind that what you will learn is applicable to **any** programming language. They might differ in syntax (a fancy term for the arrangement of words in a language in order for it to make sense), but the functionality will be the same: a loop will always be a loop.
 
 This should be your mindset when you're learning concepts: **I'm learning how to become a software developer that can adjust to any language used, because I know what the underlying principles and concepts are**.
+
+![JavaScript](./assets/javascript.png)
 
 2. **How to think like a programmer**. In one sentence this means: knowing how to solve problems computationally. Let's split that up in two parts: `how to solve problems` refers to the ability to identify issues and find effective solutions. `computationally` refers to the ability to think in logical steps that the computer can understand and execute.
 
