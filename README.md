@@ -14,7 +14,7 @@ You'll be learning two main things:
 
 This should be your mindset when you're learning concepts: **I'm learning how to become a software developer that can adjust to any language used, because I know what the underlying principles and concepts are**.
 
-[Java](<img src="https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png" width="400" height="400" alt="HYF Video" />)
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png" width="400" height="400" alt="HY" />
 
 2. **How to think like a programmer**. In one sentence this means: knowing how to solve problems computationally. Let's split that up in two parts: `how to solve problems` refers to the ability to identify issues and find effective solutions. `computationally` refers to the ability to think in logical steps that the computer can understand and execute.
 
